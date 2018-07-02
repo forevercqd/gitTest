@@ -6,7 +6,8 @@ int main()
     printf("%s, line %d, enter.\n", __FUCTION__, __LINE__);
 
     int a = 1;
-    int b = 3;
+//    int b = 3;
+    int b = 7;
     int c = a + b;
     int d = 2*a + b + b;
 
