@@ -6,8 +6,9 @@ int main()
     printf("%s, line %d, enter.\n", __FUCTION__, __LINE__);
 
     int a = 1;
-    int b = 2;
+    int b = 3;
     int c = a + b;
+    int d = a + b + c;
 
     printf("c = %d + % = %d.\n", a, b, c);
 
