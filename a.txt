@@ -1,5 +1,9 @@
 Hello world
 当'mywork'分支更新之后，它会指向这些新创建的提交(commit),而那些老的提交会被丢弃。 如果运行垃圾收集命令(pruning garbage collection), 这些被丢弃的提交就会删除. （请查看 git gc)
+
+if x<0
+then:
+
 Hello Moth 
 Hello HZ
 
